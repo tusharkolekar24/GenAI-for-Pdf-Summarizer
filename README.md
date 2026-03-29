@@ -6,6 +6,8 @@ GenAI-for-Pdf-Summarizer is an AI-powered web application designed to summarize 
 
 This project is ideal for students, researchers, analysts, and professionals who want to quickly extract insights from lengthy documents.
 
+![image](https://github.com/user-attachments/assets/00c4e604-bb3d-435e-ae03-26782649c145)
+
 ---
 
 ## 🚀 Key Features
@@ -135,5 +137,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## ⭐ Show Your Support
 
 If you like this project, please ⭐ the repository and share it with others!
-
-![image](https://github.com/user-attachments/assets/00c4e604-bb3d-435e-ae03-26782649c145)
